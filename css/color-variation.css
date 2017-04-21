@@ -1,0 +1,71 @@
+.btn.btn-style-2::after {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+.btn-grad.style-2::after {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+.overlay-grad-two::after {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+
+/* app features area index-2 style*/
+
+.single-feature.feature-style-2::after {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+
+/*awesome features index 2 style*/
+
+.awesome-feature.style-2 .awesome-feature-icon span::after {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+.awesome-feature.style-2:hover .awesome-feature-icon i {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+.member-description.home-style-2 {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, rgba(238, 15, 111, 0.95) 0%, rgba(248, 138, 130, 0.95) 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, rgba(238, 15, 111, 0.95) 0%, rgba(248, 138, 130, 0.95) 100%) repeat scroll 0 0;
+}
+.grad-bg-hover.home-style-2 li a::after {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+.pricing-table-style-2 .single-price-table:hover .price-value {
+    color: #f89482;
+}
+.pricing-table-style-2 .pricing-footer::after, .pricing-table-style-2 .pricing-footer::before, .pricing-table-style-2 .single-price-table:hover .pricing-footer .btn span {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+.faq-home-2 .panel::before {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(top, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+.faq-home-2 .panel-title a::after {
+    border: 1px solid #f89482;
+    color: #f89482;
+}
+.subscribe-wrapper.home-style-2 .subscribe-box button {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+.contact-box.home-style-2 .form-grad-border {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
+.contact-box.home-style-2 .contact-box-inner, .contact-box.home-style-2 .contact-box-inner .address-box {
+    background-color: #4C5462;
+}
+.home-style-2 .slick-dots li {
+    border: 1px solid #ee0f6f;
+}
+.home-style-2 .slick-dots li.slick-active {
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0f6f 0%, #f89482 100%) repeat scroll 0 0;
+}
